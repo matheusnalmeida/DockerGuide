@@ -9,6 +9,6 @@
 ### Execução e Criação
 
 - #### **docker -v "endereco" run "imagem"** : Ira criar um container com uma pasta no endereco especificado(neste caso "endereco"), em que todos os dados salvos nesta pasta, na verdade estarão sendo salvos em uma pasta externa no computador(Podemos verificar a pasta ao executar o comando docker inspect e verificarmos a sessão mount).
-![doccker_inspect_mount](../images/doccker_inspect_mount.png)
+![doccker_inspect_mount](https://github.com/matheusnalmeida/DockerGuide/blob/master/Images/doccker_inspect_mount.png)
 
 - #### **docker -v "C:\Users\Desktop:var/wwww" run "imagem"** : Ira criar um container com uma pasta no endereco especificado(neste caso "var/wwww"), em que todos os dados salvos nesta pasta, na verdade estarão sendo salvos em uma pasta externa no computador(neste caso "C:\Users\Desktop").
