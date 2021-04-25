@@ -14,7 +14,7 @@
 
 - #### **MAINTAINER [NOME]**: Ira especificar o usuario responsavel pela manutenção do dockerfile.
 
-- #### **ENV [NOME_VARIAVEL]=[VALOR_VARIAVEL]**: Ira definir uma variavel de ambiente. A sintaxe do comando é 
+- #### **ENV [NOME_VARIAVEL]=[VALOR_VARIAVEL]**: Ira definir uma variavel de ambiente.
 
 - #### **COPY [ENDERECO_ORIGEM] [ENDERECO_DESTINO]**: Ira copiar os arquivos do endereço de origem para o endereço de destino dentro do container.
 
