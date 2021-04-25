@@ -12,4 +12,6 @@
 
 * ## [DockerHub](https://github.com/matheusnalmeida/DockerGuide/blob/master/DockerHub/DockerHub.md)
 
+* ## [Network](https://github.com/matheusnalmeida/DockerGuide/blob/master/ContainersCommunication/ContainersCommunication.md)
 
+* ## [Docker Compose](https://github.com/matheusnalmeida/DockerGuide/blob/master/DockerCompose/DockerCompose.md)
